@@ -1,0 +1,31 @@
+{
+    "DeckName": "Custom NSFW",
+
+    "DeckBy": "Degenerates",
+
+    "Truths": [
+        "What typically non-sexual thing turns you on?",
+        "When was the last time you masturbated?",
+        "Have you ever cheated on someone?",
+        "What's your favorite sex act to receive?",
+        "What's your favorite sex act to give?",
+        "What's your favorite sex position?",
+        "Have you ever accidentally sent a sext to the wrong person?",
+        "Whats your biggest roleplay fantasy?",
+        "What's the craziest place you have/want to hook up?",
+        "What common turn-off really turns you on?",
+        "Have you ever faked an orgasm?",
+        "Whats the craziest thing youve done in a sex dream?",
+        "Are you more dominate or submissive?",
+        "How often do you masturbate?",
+        "Whats your best pick-up line?",
+        "Who would you rather kiss in this group?",
+        "Have you ever had a sex dream about anyone in this group?"
+    ],
+    "Dares": [
+        "Mute yourself until next turn.",
+        "Sit next to <player>.",
+        "Eat <range[1-10]> goldfish.",
+        "Let <player> slap you <range[1-5]> times."
+    ]
+}
